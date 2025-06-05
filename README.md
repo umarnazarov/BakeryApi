@@ -35,7 +35,7 @@ This is a backend RESTful API built using ASP.NET Core Web API with Entity Frame
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/BakeryApi.git
+git clone https://github.com/umarnazarov/BakeryApi.git
 cd BakeryApi
 ```
 
